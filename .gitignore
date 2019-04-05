@@ -263,3 +263,4 @@ __pycache__/
 #Ignore Web.config and migrations
 Web.config
 Migrations/
+bin/
